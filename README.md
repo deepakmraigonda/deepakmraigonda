@@ -69,4 +69,7 @@ graph TD
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepakmraigonda&label=Profile%20Visits&color=38BDF8&style=flat" alt="profile views" />
+</p>
+
